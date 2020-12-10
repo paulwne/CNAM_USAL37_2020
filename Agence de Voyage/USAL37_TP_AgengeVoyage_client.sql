@@ -18,11 +18,11 @@ CREATE TABLE sales
 INSERT INTO sales
 (com_code, com_name)
 VALUES
-('Dupont', 'Jacques'),
-('Berger', 'Michel'),
-('Martin', 'Benjamin'),
-('Durand', 'Louis'),
-('Petit', 'Jeanne');
+('1', 'DUPOND'),
+('2', 'MICHEL'),
+('3', 'PETIT'),
+('4', 'ALAIN'),
+('5', 'LENINGER');
 
 CREATE TABLE clients
 (
